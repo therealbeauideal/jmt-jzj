@@ -1,0 +1,9 @@
+version: 0.1
+
+endpoints:
+  - name: "jzj"
+    port: 8000
+    type: REST
+    networkvisibility: Public
+    context: /
+    description: "Money Management Platform"
